@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Carrido;Joane;;;
-FN: Joane Carrido
+N:Raj;Raj;;;
+FN: Raj
 ORG:ITCAN;
-TITLE:Senior Recruitment Consultant
-EMAIL;type=INTERNET;type=WORK;type=pref:joane@itcan.biz
-TEL;type=WORK;type=VOICE:+65 8697 3874
+TITLE:Senior Recruitment Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:raj@itcan.biz
+TEL;type=WORK;type=VOICE:+919445792397
 item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.itcan.biz
